@@ -15,7 +15,7 @@ h1 {
 }
 
 .w {
-    background-image: url(/images/tom1.png);
+    background-image: url('images/tom1.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
