@@ -15,49 +15,49 @@ h1 {
 }
 
 .w {
-    background-image: url('/images/tom1.png');
+    background-image: url('../images/tom1.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .a {
-    background-image: url('/images/tom2.png');
+    background-image: url('../images/tom2.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .s {
-    background-image: url('/images/tom3.png');
+    background-image: url('../images/tom3.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .d {
-    background-image: url('/images/tom4.png');
+    background-image: url('../images/tom4.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .j {
-    background-image: url('/images/snare.png');
+    background-image: url('../images/snare.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .k {
-    background-image: url('/images/crash.png');
+    background-image: url('../images/crash.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .l {
-    background-image: url('/images/kick.png');
+    background-image: url('../images/kick.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
